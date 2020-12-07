@@ -1,5 +1,11 @@
 # test
 ====
+
+
+<img src="https://github.com/pnp/media/blob/master/parker/ms/300w/parker-ms-300.png"
+     alt="Image of Parker Porcupine the PnP mascot"
+     style="float: right; margin-right: 10px;" />
+     
 - [Get this section](#section-get-it)
 - [Another section](#another-section)
 
